@@ -1,2 +1,3 @@
 # hello-world
-entry level hello world program
+hello world entry level program
+
